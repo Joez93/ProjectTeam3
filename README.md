@@ -7,4 +7,4 @@ Have you ever wondered Canadian’s employment income for new graduates? And wha
 - Which fields of study have the highest income?
 - Does gender or age affect the median income in the same field of study?
 - Which type of accreditation yields the highest new graduate income?
-- Is there a relationship between the number of graduates and income?
+- Is there a trend of number of graduation at some feild of study.
